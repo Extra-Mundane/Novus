@@ -11,7 +11,7 @@ Novus trys its hardest to listen to community and make quality scripts.
 * **A paid exploit**
 * **Windows 10+**
 
-## Game
+## Games
 
 * ...
 
